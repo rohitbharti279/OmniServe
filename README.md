@@ -1,5 +1,3 @@
-.
-
 🌀 OmniServe
 
 All Services. One App.
